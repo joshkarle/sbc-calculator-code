@@ -15,6 +15,7 @@ const nextConfig: NextConfig = {
       },
     },
   },
+  basePath: '/sbc-calculator/'
 };
 
 export default nextConfig;
