@@ -1,0 +1,19 @@
+.result {
+    margin: 1rem;
+    font-size: 24px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.result__output {
+    padding: .25rem;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.title {
+    padding: 0 1rem 0 1rem;
+    font-size: 36px;
+    font-weight: 600;
+}
